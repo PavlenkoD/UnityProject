@@ -9,12 +9,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 0}
+  m_Script: {fileID: 11500000, guid: 8b166c58ed4907b49aba9d929099b913, type: 3}
   m_Name: Protection Helmet
   m_EditorClassIdentifier: Assembly-CSharp::NewBehaviourScript
-  name: Protection Helmet
+  name: New Item
   icon: {fileID: 21300000, guid: c94d50de83555ad40aa2c5855394277a, type: 3}
   isDefaultItem: 0
   equipSlot: 0
-  armorModifier: 3
-  demageModifier: 0
+  armorModifier: 10
+  demageModifier: 5

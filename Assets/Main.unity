@@ -3043,7 +3043,7 @@ GameObject:
   - component: {fileID: 754271488}
   - component: {fileID: 754271487}
   m_Layer: 0
-  m_Name: Protection Helmet
+  m_Name: Protection Shield
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
